@@ -5,7 +5,7 @@
 ### Purpose
 The purpose of the election audit analysis is to determine the winning candidate and the county with the largest turnout as well as providing specific data regarding each county and candidate based on the raw election data. 
 
-## Analysis and Challenges
+## Results
 
 ### Analysis of Election Data
 Please refer to the linked txt file below for the results of my analysis
